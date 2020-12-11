@@ -36,12 +36,7 @@ body {
     display: inline-block;
     margin-left: 25px;
 }
-
-a {
-    color: #ffffff;
-    text-decoration: none;
-}
-
+/* removing redundant anchor styling from this line */
 p {
     font-size: 16px;
 }
