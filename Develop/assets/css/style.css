@@ -59,17 +59,17 @@ p {
     float: left;
     margin-right: 25px;
 }
-/* <!-- changing class name from "float-left -> "digital-marketing-meeting-img-main" --> */
+/* <!-- changing class name from "float-left to "digital-marketing-meeting-img-main" --> */
 .digital-marketing-meeting-img-main {
     float: left;
     margin-right: 25px;
 }
-/* <!-- changing class name from "float-left -> "online-reputation-management-img-main" on line 62 --> */
+/* <!-- changing class name from "float-left to "online-reputation-management-img-main" on line 62 --> */
 .online-reputation-management-img-main {
     float: right;
     margin-left: 25px;
 }
-/* <!-- changing class name from "float-right -> "social-media-marketing-img-main" on line 68 --> */
+/* <!-- changing class name from "float-right to "social-media-marketing-img-main" on line 68 --> */
 .content {
     width: 75%;
     display: inline-block;
