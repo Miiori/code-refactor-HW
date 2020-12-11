@@ -1,8 +1,9 @@
-* {
+/* Removed bottom styling as it was redundant */
+/* * {
     box-sizing: border-box;
     padding: 0;
     margin: 0;
-}
+} */
 
 body {
     background-color: #d9dcd6;
@@ -198,3 +199,4 @@ p {
 h3 {
     text-align: center;
 }
+/* Added h3 style so text is centred like in demo */
