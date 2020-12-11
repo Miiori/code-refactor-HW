@@ -55,16 +55,21 @@ p {
     background-position: center;
 }
 
-.float-left {
+.social-media-marketing-img-main {
     float: left;
     margin-right: 25px;
 }
-
-.loat-right {
+/* <!-- changing class name from "float-left -> "digital-marketing-meeting-img-main" --> */
+.digital-marketing-meeting-img-main {
+    float: left;
+    margin-right: 25px;
+}
+/* <!-- changing class name from "float-left -> "online-reputation-management-img-main" on line 62 --> */
+.online-reputation-management-img-main {
     float: right;
     margin-left: 25px;
 }
-
+/* <!-- changing class name from "float-right -> "social-media-marketing-img-main" on line 68 --> */
 .content {
     width: 75%;
     display: inline-block;
