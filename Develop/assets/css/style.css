@@ -1,4 +1,3 @@
-/* Removed bottom styling as it was redundant */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -47,7 +46,7 @@ p {
     font-size: 16px;
 }
 
-.hero {
+.digital-marketing-meeting {
     height: 800px;
     width: 100%;
     margin-bottom: 25px;
@@ -61,7 +60,7 @@ p {
     margin-right: 25px;
 }
 
-.float-right {
+.loat-right {
     float: right;
     margin-left: 25px;
 }
@@ -199,4 +198,4 @@ p {
 h3 {
     text-align: center;
 }
-/* Added h3 style so text is centred like in demo*/
+/* Added h3 style so text is centred like in demo */
